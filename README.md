@@ -26,7 +26,7 @@ Jarak antara dua titik = 7.81025
 ```
 
 ### Identitas
-- Nama: Fauta Fahrezi  
-- NIU: (isi NIU kamu)  
-- Mata Kuliah: Pemrograman Dasar  
+- Nama: Fauta Fahrezi Tuhuteru
+- NIM: (25/565738/TK/63814)
+- Mata Kuliah: Pemrograman Dasar Kelas B
 - Tugas: Week 9
